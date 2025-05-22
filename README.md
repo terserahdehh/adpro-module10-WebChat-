@@ -22,3 +22,7 @@ This repository is divided to branches that correspond to the blog post sections
 
 ## 3.1. Original code
 ![Alt text](image.png)
+
+## 3.2. Add some creativities to the webclient
+![Alt text](image-1.png)
+I replaced the gray backgrounds and borders with hot pink Tailwind classes (bg-pink-100, bg-pink-200, border-pink-300). Usernames and message text now use darker pink tints (text-pink-600 and text-pink-800), and the input field plus send button got pink backgrounds and focus styles.
